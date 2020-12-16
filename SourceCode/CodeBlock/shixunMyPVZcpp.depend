@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1420212243 source:g:\mypvz\shixunmypvzcpp\shixunmypvzcpp\sourcecode\icon.rc
+
+1591764491 source:g:\mypvz\shixunmypvzcpp\shixunmypvzcpp\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+
+1591097067 g:\mypvz\shixunmypvzcpp\shixunmypvzcpp\sourcecode\header\commonclass.h
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
+1591702841 g:\mypvz\shixunmypvzcpp\shixunmypvzcpp\sourcecode\header\lessonx.h
+	<Windows.h>
+	<cstdlib>
+	<ctime>
+
+1591704317 source:g:\mypvz\shixunmypvzcpp\shixunmypvzcpp\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	<cstdlib>
+	<ctime>
+	"CommonClass.h"
+	"LessonX.h"
+
